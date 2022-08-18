@@ -12,5 +12,11 @@
 
   
 ## 💰 Support Me Or Donate Me!... 💎
-  
-<a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>  
+<p align="middle">
+<a href="https://ko-fi.com/darkesttrickytech" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>  
+
+<div align="center">
+
+![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=PredatorHackerzZ&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)  
+
+</div>
