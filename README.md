@@ -1,6 +1,6 @@
 # Welcome To My proFile!!!
 
-[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/Maulikpatell)[![telegrambadge](https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram)](https://telegram.dog/Maulikpatell)
+[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/Maulikpatell)[![telegrambadge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://telegram.dog/Maulikpatell)
 
 
 
